@@ -3,6 +3,7 @@
 Hola cloud sourfers!, les presento a mi bot.
 
 ¿Qué es Azure?,¿Qué es la nube?, ¿Qué es la nube hibrida?, esto y algunas preguntas mas lo puede responder este bot, adelante!!
+(Primero escribe preguntas para ver que puedes preguntar.)
 
 ### Bot de Preguntas y respuestas
 
