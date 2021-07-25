@@ -1,12 +1,11 @@
 ## Bienvenido aquí se hospeda mi bot para preguntas y respuestas.
 
-You can use the [editor on GitHub](https://github.com/JesusRosales13/Inovacion-reto-master/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hola cloud sourfers!, les presento a mi bot.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+¿Qué es Azure?,¿Qué es la nube?, ¿Qué es la nube hibrida?, esto y algunas preguntas mas lo puede responder este bot, adelante!!
 
-### Markdown
+### Bot de Preguntas y respuestas
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
